@@ -1,0 +1,187 @@
+[
+  {
+    "HeroSecHeadLine" : "Decrease your SaaS churn by over 90%",
+    "HeroSecTagLine" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Distinctio eum impedit nihil ipsum modi.",
+    "CounrceSecHeadline" : ["Learn Skills.","Build Your Career."],
+    "CounrceSecTagline" : "High-quality playlists designed for students & developers to grow step by step.",
+    "AboutSecTagline" : " Learning Platform is built to help students and developers learn real-world skills through structured playlists, practical projects,and guided learning paths.",
+    "AboutSecMissionTagline" : "To provide affordable, high-quality tech education that helps learners grow from beginner to professional with confidence.",
+    "AboutSecVisionTagline": " To become a trusted learning ecosystem where skills, discipline,and consistency shape successful careers.",
+    "AboutSecChooseUs" : ["Structured Playlists","Beginner Friendly","Real Projects","Career Focused"],
+    "ContactEmail" : "support@learningplatform.com",
+    "ContactNumber" : "+917499221606",
+    "ContactLocation" : "Pune, Maharashtra",
+    "FooterSecTagLine" : "Learn skills that matter. Build your future with structured,industry-ready courses.",
+    "instagramLink" : "instagram.com",
+    "FeacBookLink" : "FaceBook.com",
+    "LinkdinLink" : "Linkdin.com"
+  },
+  {
+    "courseName": "Spring Boot Mastery Course",
+    "courseThumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+    "courseTagLine": "Build real-world backend applications with Spring Boot, REST APIs, JPA & Hibernate.",
+    "features": [
+      "Backend",
+      "Beginner to Advanced",
+      "Certificate Included"
+    ],
+    "whatYouLearn": [
+      "Spring Boot fundamentals",
+      "REST API development",
+      "JPA & Hibernate",
+      "Authentication & Authorization",
+      "Project structure & best practices",
+      "Real-world backend project"
+    ],
+    "courseIncludes": [
+      "30+ On-demand videos",
+      "Downloadable resources",
+      "Notes & assignments",
+      "Completion certificate",
+      "Lifetime access",
+      "Mobile & desktop access"
+    ],
+    "courseDescription": "This Spring Boot course is designed for students who want to build strong backend skills. You will learn how to create RESTful APIs, connect databases using JPA, secure applications, and deploy real-world projects with confidence.",
+    "coursePrice": [
+      "1999",
+      "2999"
+    ],
+    "videos": [
+      {
+        "title": "Introduction to Spring Boot",
+        "duration": "08:45",
+        "youtubeId": "DmJWigJQnHk?si=tTBEvs0N1BuKqoJT",
+        "quiz": [
+          {
+            "question": "Spring Boot is based on?",
+            "options": ["Spring", "React", "Angular"],
+            "answer": "Spring"
+          },
+          {
+            "question": "Spring Boot removes?",
+            "options": ["Boilerplate", "Security", "Database"],
+            "answer": "Boilerplate"
+          },
+          {
+            "question": "Default server?",
+            "options": ["Tomcat", "Nginx", "Apache"],
+            "answer": "Tomcat"
+          },
+          {
+            "question": "Config file?",
+            "options": ["application.properties", "index.js", "pom.xml"],
+            "answer": "application.properties"
+          },
+          {
+            "question": "Spring Boot is?",
+            "options": ["Framework", "Library", "Language"],
+            "answer": "Framework"
+          }
+        ]
+      }
+
+    ]
+  },
+  {
+    "purchaseId": "PUR_9001",
+    "transactionId": "TXN1726984523123",
+    "userEmail": "shriram@gmail.com",
+    "courseId": "1",
+    "courseName": "React Mastery",
+    "amount": "1999",
+    "paymentMode": "UPI_QR",
+    "status": "SUCCESS",
+    "purchaseDate": "2026-01-24T14:45:00"
+  },
+  {
+    "user": {
+      "email": "shriram@gmail.com"
+    },
+    "course": {
+      "courseId": 6,
+      "courseName": "React Mastery",
+      "totalVideos": 10
+    },
+
+    "currentVideo": {
+      "videoId": 3,
+      "title": "React Components",
+      "duration": "12:45",
+      "youtubeId": "F2Mu4c4Xu0w",
+      "completed": true,
+      "completedAt": "2026-01-24T15:20:00"
+    },
+
+    "notes": {
+      "videoId": 3,
+      "content": "Components are reusable UI blocks in React.",
+      "autoSaved": true,
+      "lastSavedAt": "2026-01-24T15:22:10"
+    },
+
+    "quiz": {
+      "videoId": 3,
+      "totalQuestions": 5,
+      "answers": [
+        "Reusable Components",
+        "JSX",
+        "Props",
+        "State",
+        "Virtual DOM"
+      ],
+      "marksObtained": 4,
+      "passed": true,
+      "attemptedAt": "2026-01-24T15:25:00"
+    },
+
+    "progress": {
+      "completedVideos": [1, 2, 3],
+      "lastWatchedVideoId": 3,
+      "progressPercentage": 30,
+      "courseCompleted": false
+    },
+
+    "meta": {
+      "device": "WEB",
+      "platform": "DESKTOP",
+      "ipAddress": "192.168.1.25",
+      "updatedAt": "2026-01-24T15:25:30"
+    }
+  },
+//==============================================================================================
+
+  {
+    "userEmail": "shriram@gmail.com",
+    "courseId": 6,
+    "courseName": "React Mastery",
+    "totalVideos": 10,
+
+    "currentVideoId": 3,
+    "currentVideoTitle": "React Components",
+    "currentVideoDuration": "12:45",
+    "youtubeId": "F2Mu4c4Xu0w",
+    "videoCompleted": true,
+    "videoCompletedAt": "2026-01-24T15:20:00",
+
+    "noteContent": "Components are reusable UI blocks in React.",
+    "noteAutoSaved": true,
+    "noteLastSavedAt": "2026-01-24T15:22:10",
+
+    "quizTotalQuestions": 5,
+    "quizMarksObtained": 4,
+    "quizPassed": true,
+    "quizAnswers": ["Reusable Components","JSX","Props","State","Virtual DOM"],
+    "quizAttemptedAt": "2026-01-24T15:25:00",
+
+    "completedVideos": [1,2,3],
+    "lastWatchedVideoId": 3,
+    "progressPercentage": 30,
+    "courseCompleted": false,
+
+    "device": "WEB",
+    "platform": "DESKTOP",
+    "ipAddress": "192.168.1.25",
+    "updatedAt": "2026-01-24T15:25:30"
+  }
+
+]
