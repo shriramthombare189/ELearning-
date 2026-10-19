@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  @apply w-full bg-gray-800 border border-gray-700 rounded-xl px-4 py-3 focus:ring-2 focus:ring-indigo-500 outline-none;
+}
+
+.btn-indigo {
+  @apply bg-indigo-600 px-6 py-2 rounded-xl hover:bg-indigo-700 transition;
+}
+
+.btn-green {
+  @apply bg-green-600 px-6 py-2 rounded-xl hover:bg-green-700 transition;
+}
+
+.btn-gray {
+  @apply bg-gray-700 px-6 py-2 rounded-xl hover:bg-gray-600 transition;
+}
+
+@keyframes slide {
+  from { opacity: 0; transform: translateX(40px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.animate-slide {
+  animation: slide 0.4s ease;
+}
+
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.animate-fade {
+  animation: fade 0.5s ease;
+}
